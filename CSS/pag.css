@@ -11,23 +11,23 @@ body {
 
 nav{
 
-    border-radius:20px;
+    border-radius: 20px;
 
-	display:grid;
-    text-align:center;
-    padding:33px33px00;
+	display: grid;
+    text-align: center;
+    padding: 33px 33px 0 0;
     
-	grid-template-columns:1fr1fr1fr1fr1fr1fr;
-	gap:50px;
-	background:#E00;
-	box-sizing:border-box;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+	gap: 50px;
+	background: #E00;
+	box-sizing: border-box;
 
 
 }
 
 
 .a{
-	 color:#fff;
+	 color: #fff;
 	font-family: novecento-sans, sans-serif;
     font-size: xx-large;
     text-decoration: none;
@@ -65,20 +65,20 @@ nav{
 }
 
 #contenidos h1 {text-decoration: none;
-color:black;
-display:block;
-background-repeat:no-repeat;
-text-indent:35px;
-padding:10px;
-margin:15px 0 0;}
+color: black;
+display: block;
+background-repeat: no-repeat;
+text-indent: 35px;
+padding: 10px;
+margin: 15px 0 0;}
 
 #contenidos1 {text-decoration: none;
-color:white;
-display:block;
-background-repeat:no-repeat;
-text-indent:35px;
-padding:10px;
-margin:15px00;}
+color: white;
+display: block;
+background-repeat: no-repeat;
+text-indent: 35px;
+padding: 10px;
+margin: 15px 0 0;}
 
 
 a:hover {
